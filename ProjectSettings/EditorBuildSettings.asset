@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/VRBasics.unity
+    guid: 7267de69dfd0d0040a75167791bf9963
+  - enabled: 0
+    path: Assets/Samples/XR Hands/1.3.0/HandVisualizer/HandVisualizer.unity
+    guid: ab7acf0d9677fbe4db51bc36647d4fcb
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/2.5.2/Hands Interaction Demo/HandsDemoScene.unity
+    guid: 3ff35cecbcc52cc42945cf531638a60a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5b7a3d4c0cd1a8e4b85d8f07c951130d,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1abf975595e5c094a82c76930f71d65f,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 323dc96420b67dd4694b1a1979696f63,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 91bd578b44e847a4f8b6e4bc13f545b2,
+      type: 2}
